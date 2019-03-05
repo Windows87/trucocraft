@@ -1,5 +1,5 @@
 # :clubs::hearts: TrucoCraft
-TrucoCraft é um plugin de Minecraft escrito em JavaScript para jogar Truco (Mineiro) para dois jogadores.
+TrucoCraft é um plugin de Minecraft escrito em JavaScript (Com a ajuda do <a href="https://github.com/walterhiggins/ScriptCraft" target="_blank">ScriptCraft</a>) para jogar Truco (Mineiro) para dois jogadores dentro do Minecraft usando o chat.
 Foi testado no Minecraft 1.5.2, mas acredito que funcione em todas as versões.
 
 <br>
